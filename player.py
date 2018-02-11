@@ -2,7 +2,7 @@ from human_player import HumanPlayer
 from computer_player import ComputerPlayer
 
 class Player(object):
-    ''' Create a player with a given marker and player type (Human or Computer).'''
+    ''' Create a player with a particular marker and player type (Human or Computer).'''
     def __init__(self):
         pass
 
